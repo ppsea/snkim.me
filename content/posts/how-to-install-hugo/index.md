@@ -267,7 +267,7 @@ theme = "LoveIt"
     # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
     title = "SNKIM's Blog"
     # subtitle shown in home page
-    subtitle = "logger.info('snkim')"
+    # subtitle = "logger.info('snkim')"
     # whether to use typeit animation for subtitle
     typeit = true
     # whether to show social links
