@@ -1,6 +1,6 @@
 [submodule "LoveIt"]
 	path = LoveIt
-	url = https://github.com/dillonzq/LoveIt
+	url = https://github.com/ppsea/LoveIt
 [submodule "themes/LoveIt"]
 	path = themes/LoveIt
-	url = https://github.com/dillonzq/LoveIt
+	url = https://github.com/ppsea/LoveIt
