@@ -187,7 +187,7 @@ theme = "LoveIt"
 [markup]
   # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
   [markup.highlight]
-    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+    # false is a necessary configuration (https://github.com/ppsea/LoveIt/issues/158)
     noClasses = false
 
 # Sitemap config
